@@ -1,5 +1,6 @@
 # Dashboard
 ●	Developed and implemented an E-commerce Sales Dashboard using Power BI.
+<br>
 ●	Presented a comprehensive view of order analysis, including average order value and fulfillment status.
 ●	Analyzed and visualized total revenue breakdown by product category.
 ●	Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart etc. 
